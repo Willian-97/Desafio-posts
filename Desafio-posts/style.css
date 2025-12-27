@@ -102,4 +102,12 @@ body {
 .acoes a:hover {
     text-decoration: underline;
     color: var(--action);
+
+}
+
+@media (max-width: 670px) {
+    .container {
+        width: 95%;
+    }
+
 }
